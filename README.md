@@ -11,6 +11,24 @@ Passo1:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Passo 2:
 ![31b7aab2-1519-47d6-8d49-934def6fcec7](https://github.com/rodrigo2345/Gicom_app/assets/151518602/ddd75480-b45c-437b-bd3e-9f973f3df36f)
 ![c48fa386-e791-4eaf-91b5-a2ea961e597c](https://github.com/rodrigo2345/Gicom_app/assets/151518602/3b8efe8c-7fc7-4200-a872-fee550fbc655)
