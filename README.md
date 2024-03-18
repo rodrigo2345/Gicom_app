@@ -2,10 +2,12 @@ IPBeCourses– Pesquisa de cursos
 
 para baixar a nossa aplicacao siga os seguintes passos:
 
-
+Passo1:
 ![e5ca822f-3f46-4525-86bf-5a9c3f6e62f3](https://github.com/rodrigo2345/Gicom_app/assets/151518602/0814f44b-302f-423a-9cc9-fb03a49db509)
-![830d8840-233a-4c95-871d-166dcae58934](https://github.com/rodrigo2345/Gicom_app/assets/151518602/8b8966ff-3ba7-44a5-9c54-92105a26586d)
-![37464f62-e4b5-4342-ab18-9c14e014af23](https://github.com/rodrigo2345/Gicom_app/assets/151518602/c98af1a7-f7d4-470c-926b-14b4d67f62dd)
+Passo 2:
+![31b7aab2-1519-47d6-8d49-934def6fcec7](https://github.com/rodrigo2345/Gicom_app/assets/151518602/ddd75480-b45c-437b-bd3e-9f973f3df36f)
+Passo 3:
+![c48fa386-e791-4eaf-91b5-a2ea961e597c](https://github.com/rodrigo2345/Gicom_app/assets/151518602/3b8efe8c-7fc7-4200-a872-fee550fbc655)
 
 
 
