@@ -1,7 +1,12 @@
 IPBeCourses– Pesquisa de cursos
 
-![image](https://github.com/rodrigo2345/GICOM_ipbeja_final/assets/151518602/36af36a5-291b-4d2c-b229-e64926a6bc4b)
-![image](https://github.com/rodrigo2345/GICOM_ipbeja_final/assets/151518602/04a1c8a0-b3aa-473f-a28e-eeb8423f9bc9)
+para baixar a nossa aplicacao siga os seguintes passos:
+
+
+
+![830d8840-233a-4c95-871d-166dcae58934](https://github.com/rodrigo2345/Gicom_app/assets/151518602/8b8966ff-3ba7-44a5-9c54-92105a26586d)
+
+![37464f62-e4b5-4342-ab18-9c14e014af23](https://github.com/rodrigo2345/Gicom_app/assets/151518602/c98af1a7-f7d4-470c-926b-14b4d67f62dd)
 
 
 
