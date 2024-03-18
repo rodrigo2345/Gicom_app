@@ -1,6 +1,6 @@
 IPBeCourses– Pesquisa de cursos
 
-para baixar a nossa aplicacao siga os seguintes passos:
+para baixar a nossa aplicacao Android siga os seguintes passos:
 
 Passo 1:
 ![e5ca822f-3f46-4525-86bf-5a9c3f6e62f3](https://github.com/rodrigo2345/Gicom_app/assets/151518602/0814f44b-302f-423a-9cc9-fb03a49db509)
