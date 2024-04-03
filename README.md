@@ -9,8 +9,8 @@ Passo 2:
 - Descrição do passo 2 aqui - Clique nos tres pontos
 
 Passo 3:
-![c48fa386-e791-4eaf-91b5-a2ea961e597c](https://github.com/rodrigo2345/Gicom_app/assets/151518602/3b8efe8c-7fc7-4200-a872-fee550fbc655)
-- Descrição do passo 3 aqui - Clique em download
+![image](https://github.com/rodrigo2345/Gicom_app/assets/151518602/67459dc5-b26b-4328-a5f0-3f8dbf38b24d)
+- Descrição do passo 3 aqui - Clique em view raw
 
 
 
